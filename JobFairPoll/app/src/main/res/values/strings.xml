@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JobFair Survey</string>
+    <string name="confirm">Anketa ispunjena!</string>
+    <string name="unchecked_alert">Nisu oznaceni svi odgovori!</string>
+    <string name="unchecked">Molimo vas da oznacite sve odgovore.</string>
+    <string name="export_alert">Spremanje podataka</string>
+    <string name="export">Svi podatci su uspjesno poslani na posluzitelj.</string>
+    <string name="poll_header">Molimo da odgovorite na sljedeća pitanja vezana uz odslušano predavanje.
+        Hvala!</string>
+    <string name="file_error_alert">Greska u spremanju podataka!</string>
+    <string name="file_error">Potrazi developera.</string>
+    <string name="backend_error">Dogodila se greška prilikom dohvaćanja podataka.</string>
+    <string name="exit_check">Jeste li sigurni da zelite izaci?</string>
+    <string name="wait">Molimo pričekajte…</string>
+    <string name="file_not_found">Datoteka nije pronađena.</string>
+
+
+    <string name="ok">OK</string>
+
+    <string name="title_activity_poll">PollActivity</string>
+</resources>
